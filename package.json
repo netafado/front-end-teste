@@ -1,0 +1,23 @@
+{
+  "name": "front-end-teste",
+  "version": "1.0.0",
+  "description": "Teste para front-end :)BIZ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netafado/teste-front-end--BIZ.git"
+  },
+  "author": "Isaias Francisco dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netafado/teste-front-end--BIZ/issues"
+  },
+  "homepage": "https://github.com/netafado/teste-front-end--BIZ#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
